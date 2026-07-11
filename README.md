@@ -368,4 +368,3 @@ This project is provided as-is for educational and commercial use.
 
 ---
 
-**Ready to go?** Start with: `python3 rag_client.py --interactive` 🚀
